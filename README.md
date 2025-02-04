@@ -9,7 +9,6 @@ I am currently pursuing a **Bachelor's in Computer Science at WGU** and hold an 
 - **Programming Languages:** Python (Used in MIT projects)
 - **IT & Troubleshooting:** Experience setting up POS systems and internet connections
 - **Process Improvement:** Six Sigma (Green, Yellow Belt Certified)
-- **Cloud Computing:** Currently learning as part of my degree
 
 ## 📂 Projects
 ### AI & Data Science
@@ -19,11 +18,9 @@ I am currently pursuing a **Bachelor's in Computer Science at WGU** and hold an 
 ## 🎯 Goals
 - Improve my programming skills and specialize in AI.
 - Build and contribute to open-source AI projects.
-- Gain hands-on experience in cloud computing.
 
 ## 📫 Contact
 - **GitHub:** [Your GitHub Profile Link]
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile (if applicable)]
+- **Email:** joshua.neri11@yahoo.com
 
 Feel free to explore, contribute, or reach out if you have any questions!
